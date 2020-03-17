@@ -5,7 +5,7 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Support.UI;
 
-namespace UITestCarsAsyncREST
+namespace UITestBooksAsyncREST
 {
     [TestClass]
     public class UnitTest1
